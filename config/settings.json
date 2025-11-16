@@ -1,0 +1,33 @@
+{
+  "gmail": {
+    "credentials_file": "config/gmail_credentials.json",
+    "token_file": "config/gmail_token.json",
+    "scopes": ["https://www.googleapis.com/auth/gmail.readonly", "https://www.googleapis.com/auth/gmail.send"],
+    "max_emails_per_fetch": 10
+  },
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4",
+    "temperature": 0.3,
+    "max_tokens": 1000
+  },
+  "storage": {
+    "database_path": "storage/logs.db",
+    "attachments_path": "storage/attachments"
+  },
+  "workflows": {
+    "auto_reply_enabled": true,
+    "auto_task_creation_enabled": true,
+    "save_attachments_enabled": true,
+    "task_provider": "notion"
+  },
+  "api": {
+    "host": "0.0.0.0",
+    "port": 5000,
+    "debug": false
+  },
+  "dashboard": {
+    "port": 8501
+  }
+}
+
