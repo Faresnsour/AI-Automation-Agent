@@ -1073,9 +1073,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 **Fares Nsour**
 
 - GitHub: [@Faresnsour](https://github.com/Faresnsour)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- Email: z06fn8@gmail.com
+
 
 ---
 
@@ -1159,7 +1158,7 @@ Thank you to all the contributors who have helped improve this project!
 
 ### Reporting Security Issues
 
-If you discover a security vulnerability, please email security@yourdomain.com. Do not create public GitHub issues for security vulnerabilities.
+If you discover a security vulnerability, please email z06fn8@gmail.com. Do not create public GitHub issues for security vulnerabilities.
 
 ### Security Best Practices
 
@@ -1264,10 +1263,9 @@ To add a new language, update `config/locales.json`:
 
 ### Community
 
-- [Discord Server](https://discord.gg/your-invite) - Chat with the community
+
 - [GitHub Discussions](https://github.com/Faresnsour/ai-email-automation-agent/discussions) - Ask questions
 - [Stack Overflow Tag](https://stackoverflow.com/questions/tagged/ai-email-agent) - Technical questions
-- [Twitter](https://twitter.com/yourhandle) - Latest updates
 
 ---
 
@@ -1359,8 +1357,7 @@ A: Yes! Change the model in `config/settings.json`. Any OpenAI model should work
 - **Documentation**: Check the [docs folder](docs/)
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Faresnsour/ai-email-automation-agent/issues)
 - **Discussions**: [Ask questions](https://github.com/Faresnsour/ai-email-automation-agent/discussions)
-- **Email**: support@yourdomain.com
-- **Discord**: [Join our community](https://discord.gg/your-invite)
+- **Email**: z06fn8@gmail.com
 
 ### Commercial Support
 
@@ -1372,7 +1369,7 @@ Need enterprise support, custom development, or consulting?
 - Training sessions
 - SLA guarantees
 
-Contact: enterprise@yourdomain.com
+Contact: z06fn8@gmail.com
 
 ---
 
