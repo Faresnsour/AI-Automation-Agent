@@ -147,6 +147,30 @@ ai-email-automation-agent/
     └── logs.db
 ```
 
+## 🎨 Screenshots
+
+<div align="center">
+
+### Dashboard Overview
+
+![Dashboard](docs/images/dashboard.png)
+
+### Email Processing
+
+![Processing](docs/images/processing.png)
+
+### Analytics
+
+![Analytics](docs/images/analytics.png)
+
+### Task Management
+
+![Tasks](docs/images/tasks.png)
+
+</div>
+
+> **Note:** To add screenshots, take screenshots of your dashboard and save them in `docs/images/` folder with the names above.
+
 ## 🎨 Features
 
 ### Web Dashboard
