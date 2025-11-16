@@ -965,8 +965,7 @@ Enable detailed logging:
 
 1. Check [documentation](docs/)
 2. Search [issues](https://github.com/Faresnsour/ai-email-automation-agent/issues)
-3. Join our [Discord community](https://discord.gg/your-invite)
-4. Email support: support@yourdomain.com
+3. Email support: z06fn8@gmail.com
 
 ---
 
